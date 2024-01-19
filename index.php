@@ -176,10 +176,7 @@
                         </div>
                     </div>
                     <!-- card  data -->
-
-
-
-
+loca
            
         </div>
 
