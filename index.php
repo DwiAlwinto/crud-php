@@ -1,11 +1,9 @@
 <?php 
    require "service/database.php";
+   require "component/bSimpan.php";
+   require "component/kodeOtoBarang.php";
+   require "component/editSimpan.php";
 ?>
-
-
-
-
-
 
 <!doctype html>
 <html lang="en">
